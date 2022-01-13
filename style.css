@@ -1,0 +1,17 @@
+
+.menu{ 
+     position: fixed;
+     background:white;
+     width: 100%;
+      top: 0px;
+      margin-top: 0px; 
+    } .links{ 
+      display: inline;
+      padding-left: 33px; 
+      padding-right: 25px; 
+      padding-bottom: 5px; 
+      font-family: fantasy; 
+      font-size: 20px;}
+      
+       
+      
